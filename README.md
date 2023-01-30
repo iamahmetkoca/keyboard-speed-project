@@ -1,4 +1,4 @@
-# Captcha Project csharp
+# Keyboard Speed Test csharp
 
 ![Project Image](https://ahmetkoca.com.tr/keyboard-test.png)
 
