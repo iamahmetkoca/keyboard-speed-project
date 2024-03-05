@@ -1,6 +1,6 @@
 # Keyboard Speed Test csharp
 
-![Project Image](https://ahmetkoca.com.tr/github/keyboard-speed-test-project/keyboard-test.png)
+![Project Image](https://ahmetkoca.dev/github/keyboard-speed-test-project/keyboard-test.png)
 
 ---
 
